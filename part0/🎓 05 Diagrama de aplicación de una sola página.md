@@ -37,6 +37,6 @@ server-->>browser: { content: "Excelente Curso Universidad Helsinki WOLG", date:
 
 ---
 
-# 📑 Imagen
+## 📑 Imagen
 
 **GRÁFICO SECUENCIAL:** ![TAREA: *0.5: Diagrama de aplicación de una sola página*](F:\CURSO DESARROLLADOR Universidad Helsinki\CursoUniversidadHelsinki\part0\OTROS FORMATOS\IMAGENES\🎓 05 Diagrama de aplicación de una sola página.jpg)
