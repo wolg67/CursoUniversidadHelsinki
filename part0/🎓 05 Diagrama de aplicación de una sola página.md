@@ -6,7 +6,7 @@
 ## 📄 TAREA: *0.5: Diagrama de aplicación de una sola página*
 
 **Autor:** William O Lozano G.  
-**Repositorio oficial:** [🔗 GitHub - Curso Universidad Helsinki](https://github.com/wolgprogramador-cell/CursoUniversidadHelsinki.git)  
+**Repositorio oficial:** [🔗 GitHub - Curso Universidad Helsinki](https://github.com/wolg67/CursoUniversidadHelsinki.git)  
 **Fecha de actualización:** 2025-09-14  
 
 ---

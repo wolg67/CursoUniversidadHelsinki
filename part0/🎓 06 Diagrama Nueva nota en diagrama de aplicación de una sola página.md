@@ -6,7 +6,7 @@
 ## 📄 TAREA: * 0.6: Diagrama de Creación de una Nueva Nota en una SPA*
 
 **Autor:** William O Lozano G.  
-**Repositorio oficial:** [🔗 GitHub - Curso Universidad Helsinki](https://github.com/wolgprogramador-cell/CursoUniversidadHelsinki.git)  
+**Repositorio oficial:** [🔗 GitHub - Curso Universidad Helsinki](https://github.com/wolg67/CursoUniversidadHelsinki.git)  
 **Fecha de actualización:** 2025-09-14  
 
 ---
