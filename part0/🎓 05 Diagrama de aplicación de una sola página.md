@@ -34,3 +34,9 @@ browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/data.json
 Note over browser: Solicitud `GET` al endpoint de datos.<br> Código: `200 OK` — Respuesta JSON válida recibida.
 server-->>browser: { content: "Excelente Curso Universidad Helsinki WOLG", date: "2025-09-14T17:43:59.898Z", ... }
 ```
+
+---
+
+# 📑 Imagen
+
+**GRÁFICO SECUENCIAL:** ![TAREA: *0.5: Diagrama de aplicación de una sola página*](F:\CURSO DESARROLLADOR Universidad Helsinki\CursoUniversidadHelsinki\part0\OTROS FORMATOS\IMAGENES\🎓 05 Diagrama de aplicación de una sola página.jpg)
