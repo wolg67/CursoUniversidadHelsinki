@@ -6,7 +6,7 @@
 ## 📄 TAREA: *0.4: Nuevo diagrama de nota*
 
 **Autor:** William O Lozano G.  
-**Repositorio oficial:** [🔗 GitHub - Curso Universidad Helsinki](https://github.com/wolg67/CursoUniversidadHelsinki.git)  
+**Repositorio oficial:** [🔗 GitHub - Curso Universidad Helsinki](https://github.com/wolgprogramador-cell/CursoUniversidadHelsinki.git)  
 **Fecha de actualización:** 2025-09-14  
 
 ---
